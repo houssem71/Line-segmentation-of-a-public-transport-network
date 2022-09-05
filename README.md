@@ -1,0 +1,2 @@
+# line-segmentation-of-a-public-transport-network
+This project was developed as part of the industrial data valorization module (IND6212) at the Polytechnique Montréal engineering university in a group of three students in research master's in industrial engineering . In the following link you will find the preliminary database which one of my colleagues cleaned and extracted the useful data and for confidentiality reasons I did not have the right to share the final version of  the database with you : https://exo.quebec/fr/a-propos/donnees-ouvertes
